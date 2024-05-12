@@ -1,0 +1,30 @@
+.netflix_faq {
+    padding: 50px 200px;
+}
+
+.faq_header {
+    font-size: 55px;
+}
+
+.accordion-item {
+    background-color: black;
+}
+
+.accordion-button {
+    color: #fff;
+    background-color: rgba(255, 255, 255, 0.2);
+    margin-bottom: 10px;
+    font-size: 25px;
+    padding: 30px;
+}
+
+.accordion-body{
+    background-color: rgba(255, 255, 255, 0.2);
+    color: #fff;
+    padding: 30px;
+}
+
+.accordion{
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
